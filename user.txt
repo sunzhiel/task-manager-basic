@@ -1,0 +1,6 @@
+admin, adm1n
+astrid, astr1d
+greg, gr3g
+rosa, r0sa
+ben, b3n
+ken, k3n
