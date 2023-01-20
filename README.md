@@ -8,7 +8,7 @@ This Capstone Project was created during the Department for Education (DfE) spon
 
 It demonstrates working with external data sources (files) and also the use of control structures, such as while loops and conditional statements.
 
-=== USAGE === Download the python file (task_manager.py) along with the 2 text files (tasks.txt and users.txt). Ensure you save all 3 files to the same folder.
+=== USAGE === Download the python file (task_manager.py) along with the 2 text files (tasks.txt and user.txt). Ensure you save all 3 files to the same folder.
 
 Run the python file and follow the instructions on the terminal to navigate the menu.
 
